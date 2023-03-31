@@ -22,7 +22,7 @@ function setup() {
   // button.position(-100, 750);
   // button.mousePressed(togglePlaying);
 
-  p0 = createP("LIMMA_ASCENDANT")
+//  p0 = createP("LIMMA_ASCENDANT")
   p0.position(55, 650);
   p1 = createP("FM radio module / Teensy mirco-controller sound sample - Austin TX");
   p1.position(320, 741);
