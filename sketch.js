@@ -11,7 +11,7 @@ var p3;
 
 function setup() {
 
-  createCanvas(877, 1400);
+  createCanvas(877, 1600);
   img = loadImage("LIMMA_ASCENDANT_redux2.jpg");
   img2 = loadImage("FM_module_redux2.jpg");
   sound = createAudio("SONEILL_radio_excerpt.mp3");
